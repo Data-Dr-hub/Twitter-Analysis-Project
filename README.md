@@ -3,7 +3,7 @@
 ![](images/home.png)
 
 ## Introduction
-This aim of this project is to exhibit my skills in analyzing and visualizing social media (Twitter) data with user friendly navigation using Power BI.
+The aim of this project is to exhibit my skills in analyzing and visualizing social media (Twitter) data with user friendly navigation using Power BI.
 
 The Report consists of three pages:
 1. Home Page
@@ -14,7 +14,8 @@ The Report consists of three pages:
 To analyze and visualize tweets, and trend of hastags:
 - #30DAYS OF LEAERNING
 - #NG30 DAYS OF LEARNING
-The analysis will also include analysis of most tools mentioned and Word Cloud associated to the hashtags.
+
+The analysis will also include tools mentioned and Word Cloud associated to the hashtags.
 
 ## Data Sourcing
 Data was scrapped from twitter using Python, downloaded as excel file and then imported into Power BI for analysis.
@@ -60,11 +61,11 @@ The page report depicts the following:
 - #NG30DAYSOFLEARNING with 383 mentions,
 - #30DAYSOFLEARNING with 263 mentions.
 ![](images/word.png)
-and the most mentioned handle is ofcourse **@TheOyinbooke** who has been mentioned 227 times over the first two months of commencing the learning journey.
+and the most mentioned handle is ofcourse **@TheOyinbooke** who has been mentioned 227 times over the first two months of commencement the learning journey.
 
 ![](images/table.png)
 
-This page also depicts a table of Users by tweet which has been embedded with their corresponding URL for easy and direct navigation to the original tweet in order to see what was really discussed by the user.
+This page also depicts a table of Users by tweet which has been embedded with their corresponding URL for easy and direct navigation to the original tweet in order to see what was really discussed by the user and interact with other comments.
 
 ## Conclusion & Recommendations
 ![](images/30days.jpg)
@@ -72,7 +73,7 @@ This page also depicts a table of Users by tweet which has been embedded with th
 My prediction is that the rate would increased more exponentially over this month of July provided that the methods and strategy of broadcast are kept constant or advanced further.
 - **Mr Oyinbooke** is pivotal to the broadcast and and engagement in this program. 
 
-![](images/oyinbooke.jpg)
+![](images/oyinbooke2.png)
 
 This only shows how passionate he is about learning, teaching and education generally.
 Being a Microsoft Senior Advocate and MVP, it will be nice to have him explain how he multitasks and keep motivated.
@@ -80,11 +81,11 @@ Being a Microsoft Senior Advocate and MVP, it will be nice to have him explain h
 - Majority of the users of the #30days of learning are android users. 
 
 ![](images/android.jpg)
-Therefore, they should be considered first in the deployment of softwares and applications. As a matter of fact, the program as a whole has to be Android compatible. This is Nigeria! :smile: 
+Therefore, they should be considered first in the choice of required softwares and applications for the learning process. As a matter of fact, the program as a whole has to be Android compatible. This is Nigeria! :smile: 
 - People engage less on weekends which is expected because people tend to fix most of their extracurricular activities on weekends. Therefore, I recommend that urgent lectures and live events should not be fixed on weekends as it is most likely that majority would miss the event and that would not be encouraging.
 
 - There is a high probablity that majority of students enrolled for the data analytics track, evidenced by the mention of tools.
-![](images/datrack.jpg)
+![](images/datrack.png)
 Excel and Power BI were mentioned the most and these are primary tools of data analytics. (that is the track I enrolled for as well :nerd_face:)
 - The #NG30DAYSOFLEARNING is more often used than the #30DAYSOFLEARNING hashtag.(well, I initially thought otherwise because of the length of the hashtag)
 - Being the convener of the learning program, I went ahead to filter for "@Oyinbooke";
@@ -93,9 +94,9 @@ words including 'data analytics', 'GitHub', 'Learning'.
 It is not surprising to have 'GitHub' as one of the most mentioned words because he constantly encourages students to upload projects no matter how small.
 ----------
 Note: 
-There is a nice hover and press effect/style in the buttons on the home page. Interact [HERE]()
-The Home icon navigates to the home page.
-The start button on the content analysis page directs to the Onboarding page of the learning program to get started with 30DAYSOFLEARNING.
+- There is a nice hover and press effect/style in the buttons on the home page. Interact [HERE]()
+- The Home icon navigates to the home page.
+- The start button on the content analysis page directs to the Onboarding page of the learning program to get started with 30DAYSOFLEARNING.
 
-![](images/thanku.jpg)
+![](images/pexels-towfiqu-barbhuiya-11341894.jpg)
 Thanks for following through.
