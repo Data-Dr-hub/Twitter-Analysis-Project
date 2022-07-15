@@ -94,7 +94,7 @@ words including 'data analytics', 'GitHub', 'Learning'.
 It is not surprising to have 'GitHub' as one of the most mentioned words because he constantly encourages students to upload projects no matter how small.
 ----------
 Note: 
-- There is a nice hover and press effect/style in the buttons on the home page. Interact [HERE]()
+- There is a nice hover and press effect/style in the buttons on the home page. Interact [HERE](https://github.com/Data-Dr-hub/Twitter-Analysis-Project/blob/d118a91383e9040451c4416ed807497e4babd7f7/twitter%20Analysis.pbix)
 - The Home icon navigates to the home page.
 - The start button on the content analysis page directs to the Onboarding page of the learning program to get started with 30DAYSOFLEARNING.
 
